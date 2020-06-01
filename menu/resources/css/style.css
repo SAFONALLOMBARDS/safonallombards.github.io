@@ -1,0 +1,18 @@
+.col-6 h2, .col-6 p{
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+.header{
+    text-align: center;
+    background-color: #533d32;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 0px 0px 50px 50px;
+}
+
+.header h2, .col-6 h2{
+    font-size: 1.2rem;
+}
